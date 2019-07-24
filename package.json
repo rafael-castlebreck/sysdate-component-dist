@@ -1,0 +1,11 @@
+{
+    "name": "sysdate-component",
+    "main": "build/index.js",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "react": ">=16.0.1",
+      "react-dom": ">=16.0.1"
+    }
+  }
+  

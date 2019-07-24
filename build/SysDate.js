@@ -1,0 +1,1 @@
+import React from'react';var SysDate=function(){return React.createElement('div',null,React.createElement('h1',null,'Castlebreck'),'Today\'s date is '+Date())};export default SysDate;
